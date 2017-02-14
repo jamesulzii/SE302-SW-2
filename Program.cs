@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+bla2
 namespace ConsoleApplication1
 {
     class Program
@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             System.Console.Write("------Method one------\n");
             var list1 = new List<Student>();
-            Student s1 = new Student(1, "Hishigbayr");
+            Student s1 = new Student(1, "gankhulug");
             Student s2 = new Student(2, "Natsagtseren");
             list1.Add(s1);
             list1.Add(s2);
