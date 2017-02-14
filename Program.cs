@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+ganaa goy ah
 namespace ConsoleApplication1
 {
     class Program
